@@ -4,7 +4,7 @@ I'm an engineering and CS major at **Smith College** with a deep interest in **A
 
 ---
 
-🎯 **Featured Project: Navigate Vocational Student Well-being**  
+## 🎯 **Featured Project: Navigate Vocational Student Well-being**  
 In this project, I built a machine learning pipeline to classify vocational college students' mental health status, utilizing demographic, behavioral data, and self-reflection. This project was guided by the AI4ALL Ignite program's instructors and mentors. I applied natural language processing (NLP), supervised learning models, and explainable AI techniques to help with the early intervention of mental health issues.
 
 The project aimed to address the under-researched area of mental health in vocational students, who face unique challenges. By combining structured data (e.g., GPA, sleep hours) and unstructured text data (e.g., self-reflections), the project aimed to develop a scalable early-warning system for mental health concerns.
