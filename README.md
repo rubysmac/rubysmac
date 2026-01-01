@@ -3,7 +3,7 @@
 I'm an engineering and CS major at **Smith College** with a deep interest in **AI**, **health**, and **sustainability**. I’m passionate about solving real-world problems in various fields. I’m big on continuously learning and building my skills, and am eager to leverage my skills in an internship where I can contribute to exciting projects and learn from industry professionals.
 
 ---
-## 🎯 **Featured Project: Neuroscience-Driven Learning Engagement System **  
+## 🎯 **Featured Project: Neuroscience-Driven Learning Engagement System**  
 In this project, our team developed a prototype predictive system to identify learner disengagement risk by combining EEG brain-wave features with self-reported survey data. The system links cognitive load and attention signals to engagement outcomes using dimensionality reduction and lightweight, interpretable machine learning models, enabling early detection and adaptive learning interventions.
 
 The project addresses a key gap in professional and technical training environments: disengagement is often detected too late, after performance or completion metrics decline. By integrating neuroscience-informed signals with traditional survey inputs, this system aims to capture engagement in real time and support proactive, personalized learning strategies at scale.
