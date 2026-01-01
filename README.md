@@ -3,7 +3,7 @@
 I'm an engineering and CS major at **Smith College** with a deep interest in **AI**, **health**, and **sustainability**. I’m passionate about solving real-world problems in various fields. I’m big on continuously learning and building my skills, and am eager to leverage my skills in an internship where I can contribute to exciting projects and learn from industry professionals.
 
 ---
-## 🎯 **Featured Project: Neuroscience-Driven Learning Engagement System**  
+## 🎯 **Neuroscience-Driven Learning Engagement System**  
 In this project, our team developed a prototype predictive system to identify learner disengagement risk by combining EEG brain-wave features with self-reported survey data. The system links cognitive load and attention signals to engagement outcomes using dimensionality reduction and lightweight, interpretable machine learning models, enabling early detection and adaptive learning interventions.
 
 The project addresses a key gap in professional and technical training environments: disengagement is often detected too late, after performance or completion metrics decline. By integrating neuroscience-informed signals with traditional survey inputs, this system aims to capture engagement in real time and support proactive, personalized learning strategies at scale.
@@ -35,7 +35,7 @@ The project addresses a key gap in professional and technical training environme
 
 ---
 
-## 🎯 **Featured Project: Navigate Vocational Student Well-being**  
+## 🎯 **Navigate Vocational Student Well-being**  
 In this project, I built a machine learning pipeline to classify vocational college students' mental health status, utilizing demographic, behavioral data, and self-reflection. This project was guided by the AI4ALL Ignite program's instructors and mentors. I applied natural language processing (NLP), supervised learning models, and explainable AI techniques to help with the early intervention of mental health issues.
 
 The project aimed to address the under-researched area of mental health in vocational students, who face unique challenges. By combining structured data (e.g., GPA, sleep hours) and unstructured text data (e.g., self-reflections), the project aimed to develop a scalable early-warning system for mental health concerns.
@@ -63,7 +63,7 @@ The project aimed to address the under-researched area of mental health in vocat
 
 ---
 
-## 🎯 Featured Project: Sentiment Analysis of Book Reviews
+## 🎯 Sentiment Analysis of Book Reviews
 
 Check out my Break Through Tech portfolio project on this sentiment classification project! I developed a machine learning model to analyze and classify book reviews as positive or negative, using natural language processing techniques and supervised learning. The pipeline includes data cleaning, TF-IDF vectorization, model benchmarking, and hyperparameter tuning, achieving over 80% accuracy and balanced F1-scores.
 
